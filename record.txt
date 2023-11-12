@@ -1,0 +1,1 @@
+{'totalCoins': 4906, 'highestScore': 10355}
