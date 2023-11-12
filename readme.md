@@ -8,7 +8,7 @@ In Future Flier, an endless runner game, the player controls a character equippe
 
 ### How to run the project
 To run the project, users can follow these steps:
-1. Open the folder “TP3” that contains the project files
+1. Download all the files
 2. Ensure that all required files and folders, including the “images”,“sounds” and “cmu_graphics” folders, are present in the project folder.
 3. Locate the main file of the project, which is called “futureFlier.py”.
 4. Open “futureFlier.py” in a Python code editor such as Visual Studio Code.
