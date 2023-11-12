@@ -14,7 +14,9 @@ To run the project, users can follow these steps:
 4. Open “futureFlier.py” in a Python code editor such as Visual Studio Code.
 5. Run the “futureFlier.py” file using the “Run” command in the code editor
 6. The game should now start and the user can play it.
+
 Libraries that needed to be installed
 N/A
+
 Shortcut Commands
 In the game, players can press the “pause” button located in the top right corner of the screen. This button allows players to skip to the home screen or start a new game. This can be helpful if the player needs to take a break or wants to quickly restart the game. Additionally, the “pause” button can also be used for testing purposes to quickly rest the game to its initial state.
