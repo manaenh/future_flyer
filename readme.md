@@ -15,6 +15,9 @@ To run the project, users can follow these steps:
 5. Run the “futureFlier.py” file using the “Run” command in the code editor
 6. The game should now start and the user can play it.
 
+### Note
+Folders including “images”,“sounds” and “cmu_graphics” are not uploaded on github, so users cannot play it given the available files.
+
 ### Libraries that needed to be installed
 N/A
 
